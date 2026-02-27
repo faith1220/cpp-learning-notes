@@ -12,12 +12,11 @@
 
 ## 第二部分：语言基础
 
-* [第二章 基本概念](chapter-02/README.md)
-  * [2.1 变量与数据类型](chapter-02/variables-and-types.md)
-  * [2.2 运算符与表达式](chapter-02/operators.md)
-  * [2.3 输入与输出](chapter-02/input-output.md)
-  * [2.4 类型转换](chapter-02/type-conversion.md)
-  * [2.5 补充：理解位与字节](chapter-02/storage-basics.md)
+* [第五章 数组与字符串](chapter-05/README.md)
+  * [5.1 数组](chapter-05/array.md)
+  * [5.2 C 风格字符串](chapter-05/c-string.md)
+  * [5.3 std::string](chapter-05/std-string.md)
+  * [5.4 std::array 与 std::vector 初步](chapter-05/array-and-vector.md)
 * [第三章 流程控制](chapter-03/README.md)
   * [3.1 条件语句](chapter-03/conditional.md)
   * [3.2 循环语句](chapter-03/loop.md)
@@ -111,3 +110,10 @@
   * [18.1 编译过程详解](chapter-18/compilation-process.md)
   * [18.2 头文件与源文件组织](chapter-18/header-and-source.md)
   * [18.3 CMake 基础](chapter-18/cmake-basics.md)
+
+## 第八部分：拓展与补充
+
+* [第十九章 底层知识补充](chapter-19/README.md)
+  * [19.1 理解位与字节](chapter-19/storage-basics.md)
+  * [19.2 进制的转换与书写](chapter-19/number-bases.md)
+  * [19.3 原码、反码、补码与移码](chapter-19/negative-numbers.md)
