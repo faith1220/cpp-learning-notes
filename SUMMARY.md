@@ -17,6 +17,7 @@
   * [2.2 运算符与表达式](chapter-02/operators.md)
   * [2.3 输入与输出](chapter-02/input-output.md)
   * [2.4 类型转换](chapter-02/type-conversion.md)
+  * [2.5 补充：理解位与字节](chapter-02/storage-basics.md)
 * [第三章 流程控制](chapter-03/README.md)
   * [3.1 条件语句](chapter-03/conditional.md)
   * [3.2 循环语句](chapter-03/loop.md)
